@@ -1,0 +1,11 @@
+---
+label: foo
+hide_body: true
+fields:
+- type: field_group_list
+  name: Gallery
+  label: Gallery
+  fields:
+  - type: file
+    name: url
+    label: url
