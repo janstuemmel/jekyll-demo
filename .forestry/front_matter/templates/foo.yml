@@ -14,5 +14,10 @@ fields:
   - type: file
     name: url
     label: url
+  - name: image
+    type: file
+    config:
+      maxSize: 250
+    label: image
 pages:
 - _data/hhhhh.md
