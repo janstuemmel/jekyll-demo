@@ -15,4 +15,5 @@ fields:
       maxSize: 250
     label: image
 pages:
+- _data/huhu.md
 - _data/hhhhh.md
