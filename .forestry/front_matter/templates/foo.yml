@@ -9,3 +9,9 @@ fields:
   - type: file
     name: url
     label: url
+- name: instaimage
+  type: file
+  config:
+    maxSize: 250
+  label: InstaImage
+  description: Instagram image
