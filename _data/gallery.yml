@@ -1,5 +1,4 @@
--
-  url: foo.jpg
-
-- 
-  url: bar.jpg
+---
+- url: ''
+- url: foo.jpg
+- url: bar.jpg
