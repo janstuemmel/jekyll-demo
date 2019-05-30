@@ -20,5 +20,12 @@ fields:
     max: 
     labelField: ''
   label: Images
+- name: foo
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: foo
 pages:
 - _data/gallery.yml
