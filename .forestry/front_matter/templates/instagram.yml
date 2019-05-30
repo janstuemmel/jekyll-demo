@@ -1,12 +1,12 @@
 ---
-label: foo
+label: instagram
 hide_body: true
 fields:
 - type: field_group_list
   name: Gallery
   label: Gallery
   fields:
-  - type: file
+  - type: string
     name: url
     label: url
   - name: image
@@ -16,5 +16,3 @@ fields:
     label: image
 pages:
 - _data/gallery.yml
-- _data/huhu.md
-- _data/hhhhh.md
