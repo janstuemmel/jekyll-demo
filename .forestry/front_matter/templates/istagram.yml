@@ -20,19 +20,5 @@ fields:
     max: 
     labelField: ''
   label: Images
-- name: foo
-  type: list
-  config:
-    use_select: false
-    min: 
-    max: 
-  label: foo
-- name: bar
-  type: blocks
-  label: bar
-  template_types: []
-  config:
-    min: 
-    max: 
 pages:
 - _data/gallery.yml
