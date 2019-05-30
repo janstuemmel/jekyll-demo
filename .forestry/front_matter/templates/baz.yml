@@ -10,5 +10,3 @@ fields:
 - name: 'on'
   type: boolean
   label: 'on'
-pages:
-- _data/gallery.yml

@@ -15,5 +15,6 @@ fields:
       maxSize: 250
     label: image
 pages:
+- _data/gallery.yml
 - _data/huhu.md
 - _data/hhhhh.md
