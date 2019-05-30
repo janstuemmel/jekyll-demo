@@ -3,8 +3,7 @@ label: istagram
 hide_body: true
 fields:
 - name: gallery
-  type: field_group
-  config: {}
+  type: field_group_list
   fields:
   - name: image
     type: file
@@ -16,6 +15,10 @@ fields:
     config:
       required: false
     label: url
+  config:
+    min: 
+    max: 
+    labelField: 
   label: gallery
 pages:
 - _data/gallery.yml
