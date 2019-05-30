@@ -27,5 +27,12 @@ fields:
     min: 
     max: 
   label: foo
+- name: bar
+  type: blocks
+  label: bar
+  template_types: []
+  config:
+    min: 
+    max: 
 pages:
 - _data/gallery.yml
