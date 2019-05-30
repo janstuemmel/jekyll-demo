@@ -1,4 +1,19 @@
 ---
 label: istagram
 hide_body: true
-fields: []
+fields:
+- name: gallery
+  type: field_group
+  config: {}
+  fields:
+  - name: image
+    type: file
+    config:
+      maxSize: 250
+    label: image
+  - name: url
+    type: text
+    config:
+      required: false
+    label: url
+  label: gallery
